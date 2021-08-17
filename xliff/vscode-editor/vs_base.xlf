@@ -42,7 +42,7 @@ action keybinding</note>
   <file original="src/vs/base/browser/ui/findinput/findInputCheckboxes" source-language="en" target-language="lt-LT" datatype="plaintext"><body>
     <trans-unit id="caseDescription">
       <source xml:lang="en">Match Case</source>
-      <target state="translated">Sugretinti atvejį</target>
+      <target state="translated">Atitikti raidžių dydį</target>
     </trans-unit>
     <trans-unit id="regexDescription">
       <source xml:lang="en">Use Regular Expression</source>
@@ -50,6 +50,7 @@ action keybinding</note>
     </trans-unit>
     <trans-unit id="wordsDescription">
       <source xml:lang="en">Match Whole Word</source>
+      <target state="translated">Atitikti pilną žodį</target>
     </trans-unit>
 </body></file>
   <file original="src/vs/base/browser/ui/findinput/replaceInput" source-language="en" target-language="lt-LT" datatype="plaintext"><body>
@@ -58,6 +59,7 @@ action keybinding</note>
     </trans-unit>
     <trans-unit id="label.preserveCaseCheckbox">
       <source xml:lang="en">Preserve Case</source>
+      <target state="translated">Išsaugoti raidžių dydį</target>
     </trans-unit>
 </body></file>
   <file original="src/vs/base/browser/ui/iconLabel/iconLabelHover" source-language="en" target-language="lt-LT" datatype="plaintext"><body>
